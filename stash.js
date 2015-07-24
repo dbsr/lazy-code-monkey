@@ -9,6 +9,7 @@
 // @grant        GM_addStyle
 // @grant        GM_setClipboard
 // @updateURL    https://raw.githubusercontent.com/dbsr/lazy-code-monkey/master/stash.js
+// @downloadURL  https://raw.githubusercontent.com/dbsr/lazy-code-monkey/master/stash.js
 // ==/UserScript==
 
 
