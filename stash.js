@@ -1,13 +1,14 @@
 // ==UserScript==
 // @name         Infostrada Stash Utils
 // @namespace    http://stash.infostrada.com
-// @version      0.1
+// @version      0.2
 // @description  A collection of tools for lazy programmers
 // @author       Daan Mathot <daanmathot@gmail.com>
 // @match        http://stash.infostrada.com/*
 // @require      http://ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js
 // @grant        GM_addStyle
 // @grant        GM_setClipboard
+// @updateURL    https://raw.githubusercontent.com/dbsr/lazy-code-monkey/master/stash.js
 // ==/UserScript==
 
 
