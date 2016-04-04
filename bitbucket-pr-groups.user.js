@@ -4,7 +4,7 @@
 // @version      0.1
 // @description  try to take over the world!
 // @author       dydrmntion@gmail
-// @match        https://bitbucket.twobridges.io/*/pull-requests?create*
+// @match        *
 // @require      http://ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js
 // @require      https://cdnjs.cloudflare.com/ajax/libs/lodash.js/4.5.1/lodash.min.js
 // @grant        GM_setValue
